@@ -18,10 +18,11 @@
 		9C543EA84B6EE5C9D40D68B3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D6897 /* Foundation.framework */; };
 		9C543EA84B6EE5C9D40D68BB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68BA /* InfoPlist.strings */; };
 		9C543EA84B6EE5C9D40D68BE /* MajorTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68BD /* MajorTestTests.m */; };
-		9C543EA84B6EE5C9D40D68C0 /* TCRandomList.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68BF /* TCRandomList.m */; };
-		9C543EA84B6EE5C9D40D68C1 /* TCRandomList.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68BF /* TCRandomList.m */; };
+		9C543EA84B6EE5C9D40D68C0 /* TCHatRandomList.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68BF /* TCHatRandomList.m */; };
+		9C543EA84B6EE5C9D40D68C1 /* TCHatRandomList.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68BF /* TCHatRandomList.m */; };
 		9C543EA84B6EE5C9D40D68C4 /* TCHatItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */; };
 		9C543EA84B6EE5C9D40D68C5 /* TCHatItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */; };
+		9C543EA84B6EE5C9D40D68C8 /* TCHat.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68C7 /* TCHat.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,10 +52,12 @@
 		9C543EA84B6EE5C9D40D68B9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9C543EA84B6EE5C9D40D68BC /* MajorTestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MajorTestTests.h; sourceTree = "<group>"; };
 		9C543EA84B6EE5C9D40D68BD /* MajorTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MajorTestTests.m; sourceTree = "<group>"; };
-		9C543EA84B6EE5C9D40D68BF /* TCRandomList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCRandomList.m; sourceTree = "<group>"; };
-		9C543EA84B6EE5C9D40D68C2 /* TCRandomList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCRandomList.h; sourceTree = "<group>"; };
+		9C543EA84B6EE5C9D40D68BF /* TCHatRandomList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHatRandomList.m; sourceTree = "<group>"; };
+		9C543EA84B6EE5C9D40D68C2 /* TCHatRandomList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHatRandomList.h; sourceTree = "<group>"; };
 		9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHatItem.m; sourceTree = "<group>"; };
 		9C543EA84B6EE5C9D40D68C6 /* TCHatItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHatItem.h; sourceTree = "<group>"; };
+		9C543EA84B6EE5C9D40D68C7 /* TCHat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHat.m; sourceTree = "<group>"; };
+		9C543EA84B6EE5C9D40D68C9 /* TCHat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHat.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,10 +117,12 @@
 		9C543EA84B6EE5C9D40D689B /* MajorTest */ = {
 			isa = PBXGroup;
 			children = (
+				9C543EA84B6EE5C9D40D68C9 /* TCHat.h */,
+				9C543EA84B6EE5C9D40D68C7 /* TCHat.m */,
 				9C543EA84B6EE5C9D40D68C6 /* TCHatItem.h */,
 				9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */,
-				9C543EA84B6EE5C9D40D68C2 /* TCRandomList.h */,
-				9C543EA84B6EE5C9D40D68BF /* TCRandomList.m */,
+				9C543EA84B6EE5C9D40D68C2 /* TCHatRandomList.h */,
+				9C543EA84B6EE5C9D40D68BF /* TCHatRandomList.m */,
 				9C543EA84B6EE5C9D40D68A5 /* TCAppDelegate.m */,
 				9C543EA84B6EE5C9D40D68A4 /* TCAppDelegate.h */,
 				9C543EA84B6EE5C9D40D689C /* Supporting Files */,
@@ -259,8 +264,9 @@
 			files = (
 				9C543EA84B6EE5C9D40D68A2 /* main.m in Sources */,
 				9C543EA84B6EE5C9D40D68A6 /* TCAppDelegate.m in Sources */,
-				9C543EA84B6EE5C9D40D68C0 /* TCRandomList.m in Sources */,
+				9C543EA84B6EE5C9D40D68C0 /* TCHatRandomList.m in Sources */,
 				9C543EA84B6EE5C9D40D68C4 /* TCHatItem.m in Sources */,
+				9C543EA84B6EE5C9D40D68C8 /* TCHat.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,7 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C543EA84B6EE5C9D40D68BE /* MajorTestTests.m in Sources */,
-				9C543EA84B6EE5C9D40D68C1 /* TCRandomList.m in Sources */,
+				9C543EA84B6EE5C9D40D68C1 /* TCHatRandomList.m in Sources */,
 				9C543EA84B6EE5C9D40D68C5 /* TCHatItem.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

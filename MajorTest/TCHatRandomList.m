@@ -1,10 +1,10 @@
-#import "TCRandomList.h"
+#import "TCHatRandomList.h"
 
-@implementation TCRandomList
+@implementation TCHatRandomList
 
 @synthesize theList;
 
-- (id)initWithTheList:(NSMutableArray *)aTheList {
+- (id)initWithArray:(NSMutableArray *)aTheList {
     self = [super init];
     if (self) {
         theList = aTheList;

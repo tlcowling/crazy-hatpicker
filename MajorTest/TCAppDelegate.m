@@ -4,15 +4,12 @@
 
 @synthesize window = _window;
 
-
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
-
-    NSNumber *john = [NSNumber numberWithDouble:24.43252];
 
     return YES;
 }

@@ -1,0 +1,47 @@
+<mockup version="1.0" skin="sketch" measuredW="399" measuredH="578" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="117" y="68" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="183" y="252" w="150" h="142" measuredW="272" measuredH="255" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FilledHatB-TWTeam-FirstDrawB%26bm%3BFilledHatB-TWTeam-FirstDrawB.bmml%26bm%3BFilledHatB-TWTeam-FirstDrawB.bmml%26bm%3BFilledHatB-TWTeam-FirstDrawB.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2266%2C184%2C216%2C326%22%20href%3D%22FilledHatB-TWTeam-FirstDrawB.bmml%22%20alt%3D%22FilledHatB-TWTeam-FirstDrawB%22%20id%3D%221%22/%3E</map>
+        <src>./images/magician_hat.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="183" y="172" w="-1" h="-1" measuredW="152" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ThoughtWorks%20WebTeam</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="222" y="202" w="48" h="21" measuredW="50" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Drawn%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="270" y="202" w="25" h="21" measuredW="24" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1/6</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Alert" x="158" y="294" w="200" h="39" measuredW="200" measuredH="64" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ignacio%21%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="158" y="454" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>NumberedListIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="334" y="454" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AddPageIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

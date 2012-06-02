@@ -1,5 +1,5 @@
 #import "MajorTestTests.h"
-#import "TCRandomList.h";
+#import "../MajorTest/TCHatRandomList.h"
 
 @implementation MajorTestTests
 
@@ -20,9 +20,9 @@
 - (void)testTCRandomListReturnsARandomMemberVariable
 {
     NSMutableArray *testData = [[NSArray alloc] initWithObjects:[NSNumber numberWithInt:1],[NSNumber numberWithInt:2],[NSNumber numberWithDouble:34.52]];
-    TCRandomList * testList = [[TCRandomList alloc] initWithTheList:testData];
+    TCHatRandomList * testList = [[TCHatRandomList alloc] initWithArray:testData];
 
-    STAssertTrue([testList isKindOfClass:[TCRandomList class]], @"TestList is the correctly instantiated");
+    STAssertTrue([testList isKindOfClass:[TCHatRandomList class]], @"TestList is the correctly instantiated");
 }
 
 @end

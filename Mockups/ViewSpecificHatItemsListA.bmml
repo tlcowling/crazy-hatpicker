@@ -1,0 +1,35 @@
+<mockup version="1.0" skin="sketch" measuredW="359" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="77" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="105" y="141" w="226" h="-1" measuredW="215" measuredH="300" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>Ignacio%0AVLS%0AAshok%0AKate%0ATorsten%0ATom%0AAndy%0ADan%0AJatin%0A+%20Add%20a%20new%20item%2C%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="111" y="105" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>ViewHatItemListE%26bm%3BViewHatItemListE.bmml%26bm%3BViewHatItemListE.bmml%26bm%3BViewHatItemListE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C105%2C83%2C132%22%20href%3D%22ViewHatItemListE.bmml%22%20alt%3D%22ViewHatItemListE%22%20id%3D%222%22/%3E</map>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="171" y="108" w="-1" h="-1" measuredW="97" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Something%20New</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="301" y="106" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ViewSpecificHatItemsListE-DeleteSomeItems%26bm%3BViewSpecificHatItemsListE-DeleteSomeItems.bmml%26bm%3BViewSpecificHatItemsListE-DeleteSomeItems.bmml%26bm%3BViewSpecificHatItemsListE-DeleteSomeItems.bmml</href>
+        <icon>WriteIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22224%2C106%2C248%2C130%22%20href%3D%22ViewSpecificHatItemsListE-DeleteSomeItems.bmml%22%20alt%3D%22ViewSpecificHatItemsListE-DeleteSomeItems%22%20id%3D%226%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

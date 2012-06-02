@@ -1,0 +1,35 @@
+<mockup version="1.0" skin="sketch" measuredW="377" measuredH="554" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="95" y="44" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="123" y="186" w="226" h="-1" measuredW="215" measuredH="184" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>1.%20Ignacio%0A2.%20Andy%0A3.%20...%0A4.%20...%0A5.%20...%0A6.%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="188" y="153" w="82" h="24" measuredW="52" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Results%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="287" y="149" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="131" y="149" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>FilledHatB-TWTeam-SecondDrawB%26bm%3BFilledHatB-TWTeam-SecondDrawB.bmml%26bm%3BFilledHatB-TWTeam-SecondDrawB.bmml%26bm%3BFilledHatB-TWTeam-SecondDrawB.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C105%2C85%2C132%22%20href%3D%22FilledHatB-TWTeam-SecondDrawB.bmml%22%20alt%3D%22FilledHatB-TWTeam-SecondDrawB%22%20id%3D%224%22/%3E</map>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,57 @@
+<mockup version="1.0" skin="sketch" measuredW="359" measuredH="1018" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="77" y="508" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <bgTransparent>true</bgTransparent>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="105" y="644" w="226" h="-1" measuredW="215" measuredH="184" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>Ignacio%0AVLS%0AAshok%0AAndy%0ANathan%0ADan</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Alert" x="124" y="651" w="200" h="120" measuredW="200" measuredH="116" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CViewSpecificHatItemsListA%26bm%3BViewSpecificHatItemsListA.bmml%26bm%3BViewSpecificHatItemsListA.bmml%26bm%3BViewSpecificHatItemsListA.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C213%2C237%2C253%22%20href%3D%22ViewSpecificHatItemsListA.bmml%22%20alt%3D%22ViewSpecificHatItemsListA%22%20id%3D%222_0%22/%3E%0A</map>
+        <text>Enter%20Text%0A%20%0AEnter%2C%20Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="131" y="684" w="186" h="-1" measuredW="17" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%7C</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="164" y="618" w="120" h="18" measuredW="83" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <italic>false</italic>
+        <size>11</size>
+        <text>Something%20New</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="113" y="614" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>ViewHatItemListE%26bm%3BViewHatItemListE.bmml%26bm%3BViewHatItemListE.bmml%26bm%3BViewHatItemListE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C106%2C85%2C133%22%20href%3D%22ViewHatItemListE.bmml%22%20alt%3D%22ViewHatItemListE%22%20id%3D%225%22/%3E</map>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="105" y="778" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="293" y="615" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <href>ViewSpecificHatItemsListE-DeleteSomeItems%26bm%3BViewSpecificHatItemsListE-DeleteSomeItems.bmml%26bm%3BViewSpecificHatItemsListE-DeleteSomeItems.bmml%26bm%3BViewSpecificHatItemsListE-DeleteSomeItems.bmml</href>
+        <icon>WriteIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22216%2C107%2C240%2C131%22%20href%3D%22ViewSpecificHatItemsListE-DeleteSomeItems.bmml%22%20alt%3D%22ViewSpecificHatItemsListE-DeleteSomeItems%22%20id%3D%227%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

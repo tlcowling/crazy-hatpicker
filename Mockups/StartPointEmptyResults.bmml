@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" measuredW="369" measuredH="532" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="87" y="22" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="279" y="127" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="123" y="127" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>StartPoint%26bm%3BStartPoint.bmml%26bm%3BStartPoint.bmml%26bm%3BStartPoint.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C105%2C85%2C132%22%20href%3D%22StartPoint.bmml%22%20alt%3D%22StartPoint%22%20id%3D%222%22/%3E</map>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="176" y="227" w="-1" h="-1" measuredW="111" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nothing%20in%20the%20hat%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="157" y="257" w="-1" h="-1" measuredW="172" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Go%20back%20and%20add%20something%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="180" y="132" w="82" h="24" measuredW="66" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Empty%20Hat</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

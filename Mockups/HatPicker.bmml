@@ -1,0 +1,164 @@
+<mockup version="1.0" skin="sketch" measuredW="1100" measuredH="1884" mockupW="1027" mockupH="1276">
+  <controls>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::iPhone" x="73" y="617" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="128" y="773" w="47" h="45" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Hat-fez-icon.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Image" x="190" y="773" w="47" h="45" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./magician_hat.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="253" y="773" w="47" h="45" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./AAAADMl67d4AAAAAATPGNg.jpeg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="128" y="833" w="47" h="45" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Image" x="190" y="833" w="47" h="45" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="253" y="833" w="47" h="45" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="128" y="893" w="47" h="45" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="190" y="893" w="47" h="45" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Image" x="253" y="893" w="47" h="45" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="128" y="953" w="47" h="45" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="190" y="953" w="47" h="45" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Image" x="253" y="953" w="47" h="45" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Title" x="100" y="1192" w="-1" h="-1" measuredW="519" measuredH="52" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20Hat%20%28double%20tap%20hat%20%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::iPhone" x="818" y="608" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="884" y="792" w="150" h="142" measuredW="256" measuredH="256" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/fez.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="884" y="713" w="-1" h="-1" measuredW="148" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ThoughWorks%20WebTeam</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Title" x="493" y="1142" w="-1" h="-1" measuredW="237" measuredH="52" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Back%20to%20main</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Title" x="844" y="1142" w="-1" h="-1" measuredW="223" measuredH="52" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Different%20hat</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::PointyButton" x="269" y="724" w="-1" h="-1" measuredW="44" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <size>10</size>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::iPhone" x="85" y="1307" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <bgTransparent>true</bgTransparent>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="113" y="1389" w="227" h="-1" measuredW="215" measuredH="184" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>v%20ThoughtWorks%20WebTeam%2C%20%28%3E%29%0A%20%20%20%20Family%2C%20%28%3E%29%0A%20%20%20%20Friends%2C%20%28%3E%29%0A%20%20%20%20Untitled%20List%2C%20%28%3E%29%0A%20%20%20%20%7C%09%0A+%20Tap%20to%20add%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="113" y="1573" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Title" x="100" y="1832" w="-1" h="-1" measuredW="615" measuredH="52" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Press%20add%20another%20before%20finishing</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Label" x="166" y="1417" w="120" h="18" measuredW="83" measuredH="20" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <italic>false</italic>
+        <size>11</size>
+        <text>Something%20New</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::PointyButton" x="113" y="1413" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="919" y="742" w="48" h="21" measuredW="50" measuredH="22" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Drawn%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="967" y="742" w="25" h="21" measuredW="24" measuredH="22" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0/6</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="200" y="727" w="-1" h="-1" measuredW="36" measuredH="22" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hats%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Icon" x="859" y="998" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>NumberedListIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Icon" x="1035" y="998" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AddPageIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
