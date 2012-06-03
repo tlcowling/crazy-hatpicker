@@ -13,6 +13,14 @@
     return self;
 }
 
+- (BOOL)containsObject:(id)object {
+    if ([self.theList count]==0){
+        return NO;
+    }
+    
+    return [self.theList containsObject:object];
+}
+
 -(id)extractRandomMemberAndDoNotReplace {
     NSUInteger arraySize = [self.theList count];
     NSUInteger randomIndex = arc4random() % arraySize;

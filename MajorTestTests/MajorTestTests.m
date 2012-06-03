@@ -1,5 +1,6 @@
 #import "MajorTestTests.h"
-#import "../MajorTest/TCHatRandomList.h"
+#import "TCHatRandomList.h"
+#import "TCHatItem.h"
 
 @implementation MajorTestTests
 
@@ -17,12 +18,19 @@
     [super tearDown];
 }
 
-- (void)testTCRandomListReturnsARandomMemberVariable
-{
-    NSMutableArray *testData = [[NSArray alloc] initWithObjects:[NSNumber numberWithInt:1],[NSNumber numberWithInt:2],[NSNumber numberWithDouble:34.52]];
-    TCHatRandomList * testList = [[TCHatRandomList alloc] initWithArray:testData];
-
-    STAssertTrue([testList isKindOfClass:[TCHatRandomList class]], @"TestList is the correctly instantiated");
-}
+//- (void)testTCRandomListReturnsARandomMemberVariable
+//{
+//    TCHatItem *testItem = [[TCHatItem alloc] initWithHatItemContent:@"TestData"];
+//    TCHatItem *testItem2 = [[TCHatItem alloc] initWithHatItemContent:@"TestData2"];
+//    TCHatItem *testItem3 = [[TCHatItem alloc] initWithHatItemContent:@"TestData3"];
+//
+//    NSMutableArray *testData = [[NSArray alloc] initWithObjects:testItem,
+//                                                                testItem2,testItem3];
+//
+//    TCHatRandomList * testList = [[TCHatRandomList alloc] initWithArray:testData];
+//
+//    id extractedMember = [testList extractRandomMemberAndDoNotReplace];
+//    STAssertTrue([testList containsObject:testData],@"Test TCHatRandomListContainsTestData");
+//}
 
 @end

@@ -9,7 +9,7 @@
 
 
 - (id)initWithArray:(NSMutableArray *)aTheList;
-
+- (BOOL)containsObject:(id)object;
 - (id)extractRandomMemberAndDoNotReplace;
 - (void)insertIntoList:(id)objectToInsert;
 

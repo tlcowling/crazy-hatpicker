@@ -1,4 +1,5 @@
 #import "TCAppDelegate.h"
+#import "TCHatViewController.h"
 
 @implementation TCAppDelegate
 
@@ -8,7 +9,9 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
+    TCHatViewController* tcvc = [[TCHatViewController alloc] initWithNibName:@"TCHatViewController" bundle:nil];
+
+    self.window.rootViewController = tcvc;
     [self.window makeKeyAndVisible];
 
     return YES;

@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4DD4BD33157A9C69006BD56D /* TCHatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD4BD31157A9C69006BD56D /* TCHatViewController.m */; };
+		4DD4BD34157A9C69006BD56D /* TCHatViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4DD4BD32157A9C69006BD56D /* TCHatViewController.xib */; };
+		4DD4BD37157A9F35006BD56D /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DD4BD36157A9F35006BD56D /* bg.jpg */; };
+		4DD4BD3A157B5C7E006BD56D /* TCHatListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD4BD39157B5C7E006BD56D /* TCHatListView.m */; };
+		4DD4BD3D157B5C91006BD56D /* TCHatListDetailView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD4BD3C157B5C91006BD56D /* TCHatListDetailView.m */; };
 		9C543EA84B6EE5C9D40D6896 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D6895 /* UIKit.framework */; };
 		9C543EA84B6EE5C9D40D6898 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D6897 /* Foundation.framework */; };
 		9C543EA84B6EE5C9D40D689A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D6899 /* CoreGraphics.framework */; };
@@ -23,6 +28,9 @@
 		9C543EA84B6EE5C9D40D68C4 /* TCHatItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */; };
 		9C543EA84B6EE5C9D40D68C5 /* TCHatItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */; };
 		9C543EA84B6EE5C9D40D68C8 /* TCHat.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68C7 /* TCHat.m */; };
+		9C543EA84B6EE5C9D40D68D3 /* magician_hat.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68D2 /* magician_hat.png */; };
+		9C543EA84B6EE5C9D40D68D5 /* fez.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68D4 /* fez.png */; };
+		9C543EA84B6EE5C9D40D68D7 /* trilby.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9C543EA84B6EE5C9D40D68D6 /* trilby.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +44,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4DD4BD30157A9C69006BD56D /* TCHatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHatViewController.h; sourceTree = "<group>"; };
+		4DD4BD31157A9C69006BD56D /* TCHatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHatViewController.m; sourceTree = "<group>"; };
+		4DD4BD32157A9C69006BD56D /* TCHatViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TCHatViewController.xib; sourceTree = "<group>"; };
+		4DD4BD36157A9F35006BD56D /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		4DD4BD38157B5C7E006BD56D /* TCHatListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHatListView.h; sourceTree = "<group>"; };
+		4DD4BD39157B5C7E006BD56D /* TCHatListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHatListView.m; sourceTree = "<group>"; };
+		4DD4BD3B157B5C91006BD56D /* TCHatListDetailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHatListDetailView.h; sourceTree = "<group>"; };
+		4DD4BD3C157B5C91006BD56D /* TCHatListDetailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHatListDetailView.m; sourceTree = "<group>"; };
 		9C543EA84B6EE5C9D40D688C /* MajorTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MajorTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C543EA84B6EE5C9D40D6895 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9C543EA84B6EE5C9D40D6897 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -58,6 +74,9 @@
 		9C543EA84B6EE5C9D40D68C6 /* TCHatItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHatItem.h; sourceTree = "<group>"; };
 		9C543EA84B6EE5C9D40D68C7 /* TCHat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHat.m; sourceTree = "<group>"; };
 		9C543EA84B6EE5C9D40D68C9 /* TCHat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHat.h; sourceTree = "<group>"; };
+		9C543EA84B6EE5C9D40D68D2 /* magician_hat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = magician_hat.png; path = ../../Mockups/images/magician_hat.png; sourceTree = "<group>"; };
+		9C543EA84B6EE5C9D40D68D4 /* fez.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fez.png; path = ../../Mockups/images/fez.png; sourceTree = "<group>"; };
+		9C543EA84B6EE5C9D40D68D6 /* trilby.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trilby.jpeg; path = ../../Mockups/images/trilby.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +103,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4DD4BD35157A9C7B006BD56D /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				4DD4BD30157A9C69006BD56D /* TCHatViewController.h */,
+				4DD4BD31157A9C69006BD56D /* TCHatViewController.m */,
+				4DD4BD32157A9C69006BD56D /* TCHatViewController.xib */,
+				4DD4BD38157B5C7E006BD56D /* TCHatListView.h */,
+				4DD4BD39157B5C7E006BD56D /* TCHatListView.m */,
+				4DD4BD3B157B5C91006BD56D /* TCHatListDetailView.h */,
+				4DD4BD3C157B5C91006BD56D /* TCHatListDetailView.m */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
 		9C543EA84B6EE5C9D40D6888 = {
 			isa = PBXGroup;
 			children = (
@@ -117,14 +150,11 @@
 		9C543EA84B6EE5C9D40D689B /* MajorTest */ = {
 			isa = PBXGroup;
 			children = (
-				9C543EA84B6EE5C9D40D68C9 /* TCHat.h */,
-				9C543EA84B6EE5C9D40D68C7 /* TCHat.m */,
-				9C543EA84B6EE5C9D40D68C6 /* TCHatItem.h */,
-				9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */,
-				9C543EA84B6EE5C9D40D68C2 /* TCHatRandomList.h */,
-				9C543EA84B6EE5C9D40D68BF /* TCHatRandomList.m */,
-				9C543EA84B6EE5C9D40D68A5 /* TCAppDelegate.m */,
 				9C543EA84B6EE5C9D40D68A4 /* TCAppDelegate.h */,
+				9C543EA84B6EE5C9D40D68A5 /* TCAppDelegate.m */,
+				9C543EA84B6EE5C9D40D68CA /* Model */,
+				4DD4BD35157A9C7B006BD56D /* ViewControllers */,
+				9C543EA84B6EE5C9D40D68D1 /* Images */,
 				9C543EA84B6EE5C9D40D689C /* Supporting Files */,
 			);
 			path = MajorTest;
@@ -158,6 +188,30 @@
 				9C543EA84B6EE5C9D40D68B8 /* MajorTestTests-Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9C543EA84B6EE5C9D40D68CA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9C543EA84B6EE5C9D40D68C9 /* TCHat.h */,
+				9C543EA84B6EE5C9D40D68C7 /* TCHat.m */,
+				9C543EA84B6EE5C9D40D68C2 /* TCHatRandomList.h */,
+				9C543EA84B6EE5C9D40D68BF /* TCHatRandomList.m */,
+				9C543EA84B6EE5C9D40D68C6 /* TCHatItem.h */,
+				9C543EA84B6EE5C9D40D68C3 /* TCHatItem.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9C543EA84B6EE5C9D40D68D1 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				4DD4BD36157A9F35006BD56D /* bg.jpg */,
+				9C543EA84B6EE5C9D40D68D6 /* trilby.jpeg */,
+				9C543EA84B6EE5C9D40D68D4 /* fez.png */,
+				9C543EA84B6EE5C9D40D68D2 /* magician_hat.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,6 +282,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C543EA84B6EE5C9D40D68A0 /* InfoPlist.strings in Resources */,
+				9C543EA84B6EE5C9D40D68D3 /* magician_hat.png in Resources */,
+				9C543EA84B6EE5C9D40D68D5 /* fez.png in Resources */,
+				9C543EA84B6EE5C9D40D68D7 /* trilby.jpeg in Resources */,
+				4DD4BD34157A9C69006BD56D /* TCHatViewController.xib in Resources */,
+				4DD4BD37157A9F35006BD56D /* bg.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +326,9 @@
 				9C543EA84B6EE5C9D40D68C0 /* TCHatRandomList.m in Sources */,
 				9C543EA84B6EE5C9D40D68C4 /* TCHatItem.m in Sources */,
 				9C543EA84B6EE5C9D40D68C8 /* TCHat.m in Sources */,
+				4DD4BD33157A9C69006BD56D /* TCHatViewController.m in Sources */,
+				4DD4BD3A157B5C7E006BD56D /* TCHatListView.m in Sources */,
+				4DD4BD3D157B5C91006BD56D /* TCHatListDetailView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +494,7 @@
 				9C543EA84B6EE5C9D40D6890 /* Debug */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C543EA84B6EE5C9D40D68A9 /* Build configuration list for PBXNativeTarget "MajorTestTests" */ = {
 			isa = XCConfigurationList;
@@ -440,6 +503,7 @@
 				9C543EA84B6EE5C9D40D68AB /* Debug */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
